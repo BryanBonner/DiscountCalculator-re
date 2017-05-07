@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "98650034472C876843BD6025BBC2B2DD0B267C5D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "98650034472C876843BD6025BBC2B2DD0B267C5D" : 9223372036854775807,
+    "0C462C868148F45AD3732006BDE3E47623605A2B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EED066DD-D42C-4608-A9AF-E2D7A3857937",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "98650034472C876843BD6025BBC2B2DD0B267C5D" : "DiscountCalculator\/",
+    "0C462C868148F45AD3732006BDE3E47623605A2B" : "DiscountCalculator\/DiscountCalculator\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DiscountCalculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DiscountCalculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BryanBonner\/CS411-DiscountCalculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C462C868148F45AD3732006BDE3E47623605A2B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bryanbonner\/discountcalculator-re.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "98650034472C876843BD6025BBC2B2DD0B267C5D"
+    }
+  ]
+}
